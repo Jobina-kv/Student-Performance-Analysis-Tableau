@@ -17,12 +17,6 @@ Student_Exam_Performance_Analysis.twbx - Tableau Workbook containing dashboards 
 
 ---
 
-## Tools & Technologies Used
-- Python / CSV for data collection and preprocessing  
-- Tableau for data visualization and dashboard creation  
-
----
-
 ## Key Visualizations
 1. **Exam Score vs. Hours Studied**  
    - Strong positive correlation  
